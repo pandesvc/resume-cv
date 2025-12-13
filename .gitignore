@@ -1,0 +1,11 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Office / LibreOffice temp files
+~$*.docx
+*.odt#
+
+# Backup / temp files
+*.bak
+*.tmp
